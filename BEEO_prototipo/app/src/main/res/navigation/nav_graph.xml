@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/mapFragment">
+
+    <fragment
+        android:id="@+id/mapFragment"
+        android:name="com.beeo.app.presentation.map.MapFragment"
+        android:label="Mapa" />
+
+    <fragment
+        android:id="@+id/dashboardFragment"
+        android:name="com.beeo.app.presentation.dashboard.DashboardFragment"
+        android:label="Inicio" />
+
+    <fragment
+        android:id="@+id/alertsFragment"
+        android:name="com.beeo.app.presentation.notifications.AlertsFragment"
+        android:label="Alertas" />
+
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.beeo.app.presentation.settings.SettingsFragment"
+        android:label="Ajustes" />
+
+</navigation>
