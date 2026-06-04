@@ -1,7 +1,0 @@
-com.beeo.app.test.app-core-1.5.0-0 C:\Users\paezd\.gradle\caches\8.13\transforms\6b1755d960747d662799d487cee5fe7d\transformed\core-1.5.0\res
-com.beeo.app.test.app-annotation-experimental-1.3.1-1 C:\Users\paezd\.gradle\caches\8.13\transforms\bbbea81293aa6246e2fabc62fc8df45a\transformed\annotation-experimental-1.3.1\res
-com.beeo.app.test.app-androidTest-2 C:\Users\paezd\BEEO\BEEO_prototipo\app\build\generated\res\resValues\androidTest\debug
-com.beeo.app.test.app-updated_navigation_xml-3 C:\Users\paezd\BEEO\BEEO_prototipo\app\build\generated\updated_navigation_xml\debugAndroidTest
-com.beeo.app.test.app-mergeDebugAndroidTestResources-4 C:\Users\paezd\BEEO\BEEO_prototipo\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
-com.beeo.app.test.app-mergeDebugAndroidTestResources-5 C:\Users\paezd\BEEO\BEEO_prototipo\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
-com.beeo.app.test.app-debugAndroidTest-6 C:\Users\paezd\BEEO\BEEO_prototipo\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

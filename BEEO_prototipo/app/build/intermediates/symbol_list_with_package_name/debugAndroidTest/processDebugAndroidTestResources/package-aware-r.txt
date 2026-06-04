@@ -1,3 +1,0 @@
-com.beeo.app.test
-style WhiteBackgroundDialogTheme
-style WhiteBackgroundTheme
