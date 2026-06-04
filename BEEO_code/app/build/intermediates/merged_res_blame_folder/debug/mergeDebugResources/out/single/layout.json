@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\mustdie\\.gradle\\daemon\\8.13\\com.beeo.app-mergeDebugResources-68:\\layout\\item_activity_history.xml",
+        "source": "C:\\Users\\mustdie\\.gradle\\daemon\\8.13\\com.beeo.app-main-71:\\layout\\item_activity_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\mustdie\\.gradle\\daemon\\8.13\\com.beeo.app-mergeDebugResources-68:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\mustdie\\.gradle\\daemon\\8.13\\com.beeo.app-main-71:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\mustdie\\.gradle\\daemon\\8.13\\com.beeo.app-mergeDebugResources-68:\\layout\\item_alert.xml",
+        "source": "C:\\Users\\mustdie\\.gradle\\daemon\\8.13\\com.beeo.app-main-71:\\layout\\item_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\mustdie\\.gradle\\daemon\\8.13\\com.beeo.app-mergeDebugResources-68:\\layout\\fragment_settings.xml",
+        "source": "C:\\Users\\mustdie\\.gradle\\daemon\\8.13\\com.beeo.app-main-71:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "com.beeo.app-mergeDebugResources-68:/layout/activity_login.xml",
+        "source": "com.beeo.app-main-71:/layout/activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\mustdie\\.gradle\\daemon\\8.13\\com.beeo.app-mergeDebugResources-68:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\mustdie\\.gradle\\daemon\\8.13\\com.beeo.app-main-71:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\mustdie\\.gradle\\daemon\\8.13\\com.beeo.app-mergeDebugResources-68:\\layout\\fragment_map.xml",
+        "source": "C:\\Users\\mustdie\\.gradle\\daemon\\8.13\\com.beeo.app-main-71:\\layout\\fragment_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\mustdie\\.gradle\\daemon\\8.13\\com.beeo.app-mergeDebugResources-68:\\layout\\fragment_alerts.xml",
+        "source": "C:\\Users\\mustdie\\.gradle\\daemon\\8.13\\com.beeo.app-main-71:\\layout\\fragment_alerts.xml"
+    },
+    {
+        "merged": "C:\\Users\\mustdie\\.gradle\\daemon\\8.13\\com.beeo.app-mergeDebugResources-68:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\mustdie\\.gradle\\daemon\\8.13\\com.beeo.app-main-71:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\mustdie\\.gradle\\daemon\\8.13\\com.beeo.app-mergeDebugResources-68:\\layout\\fragment_dashboard.xml",
+        "source": "C:\\Users\\mustdie\\.gradle\\daemon\\8.13\\com.beeo.app-main-71:\\layout\\fragment_dashboard.xml"
+    }
+]

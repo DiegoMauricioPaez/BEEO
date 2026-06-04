@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BEEO</string>
+    <string name="tracking_active">BEEO está monitoreando tu actividad</string>
+    <string name="permission_location_rationale">BEEO necesita acceso a tu ubicación para mapear tus rutinas de movimiento.</string>
+    <string name="permission_activity_rationale">BEEO necesita acceso a tu actividad física para contar tus pasos.</string>
+    <string name="no_data_yet">Aún no hay datos. ¡Sal a caminar!</string>
+    <string name="steps_goal_label">Meta de pasos</string>
+    <string name="today">Hoy</string>
+    <string name="yesterday">Ayer</string>
+</resources>
